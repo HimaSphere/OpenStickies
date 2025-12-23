@@ -92,8 +92,7 @@ Make your workspace beautiful and functional.
 ## More Features
 
 - **🔝 Always on Top** — Keep notes visible above other windows
-- **⏱️ Built-in Timers** — Track time on tasks
-- **💾 Auto-Backup** — Survives crashes and power failures
+- **💾 Auto-Save** — Your notes are always saved automatically
 - **🌍 12 Languages** — English, Arabic (RTL), Chinese, German, Spanish, French, Hindi, Indonesian, Japanese, Korean, Portuguese, Russian
 - **🖥️ Multi-Monitor** — Works across all your screens
 
