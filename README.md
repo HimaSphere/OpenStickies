@@ -38,7 +38,7 @@ OpenStickies helps you stay focused with always-visible desktop notes. Perfect f
 | All other features | ✅ | ✅ |
 | Updates | ✅ | ✅ (earlier access) |
 
-**Want unlimited?** Get Premium at [openstickies.com](https://openstickies.com) — one-time purchase, yours forever.
+**Want unlimited?** Get Premium at [openstickies.com](https://openstickies.com) — pay once, use forever.
 
 ---
 
