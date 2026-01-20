@@ -96,7 +96,7 @@ Delete the config folder:
 
 ## About
 
-**OpenStickies** — Stick Anything to Your Desktop
+**OpenStickies** — sticky notes app for Windows and Linux
 
 Built by [Hima](https://github.com/HimaSphere). Website: [openstickies.com](https://openstickies.com)
 
