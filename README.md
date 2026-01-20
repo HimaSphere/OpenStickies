@@ -97,3 +97,5 @@ Delete the config folder:
 ## About
 
 Built by [Hima](https://github.com/HimaSphere). Website: [openstickies.com](https://openstickies.com)
+
+**Note:** OpenStickies is proprietary software. This repo is for free version releases only — no source code.
