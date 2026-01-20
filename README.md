@@ -30,7 +30,7 @@ The free version does everything, just with limits:
 | Reminders | 1 | Unlimited |
 | GIF backgrounds | 1 | Unlimited |
 
-Premium is a one-time purchase at [openstickies.com](https://openstickies.com).
+Premium is a one-time purchase at [openstickies.com/pricing](https://openstickies.com/pricing).
 
 ## Features
 
