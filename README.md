@@ -8,8 +8,6 @@ Drop files, paste screenshots, set reminders — keep things visible where you w
 
 ![Windows](https://img.shields.io/badge/Windows-10+-blue) ![Linux](https://img.shields.io/badge/Linux-AppImage-orange) ![macOS](https://img.shields.io/badge/macOS-soon-lightgrey) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/himasphere)
 
-<br>
-
 <img src="images/quick-capture.webp" alt="OpenStickies sticky notes app" width="700">
 
 <br><br>
