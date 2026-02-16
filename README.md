@@ -66,6 +66,12 @@ Premium is a one-time purchase at [openstickies.com/pricing](https://openstickie
 
 **Also:** always-on-top, auto-save, multi-monitor, 11 languages (including RTL Arabic).
 
+## Why Sticky Notes?
+
+> Sticky notes have been helping people think, plan, and get things done for decades — no manual needed. Research shows spatial organization and visual cues naturally boost memory and focus. OpenStickies is built to keep that simplicity while adding the benefits of digital: searchable, customizable, always on your screen. No accounts, no cloud, no tracking. Your notes stay on your device — always.
+
+**Simple tools, done right.**
+
 ## Troubleshooting
 
 **Linux: AppImage won't run**
