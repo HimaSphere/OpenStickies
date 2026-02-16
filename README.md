@@ -12,10 +12,10 @@ Drop files, paste screenshots, set reminders — keep things visible where you w
 
 <img src="images/quick-capture.webp" alt="OpenStickies sticky notes app" width="700">
 
-<br>
+<br><br>
 
 <a href="https://github.com/HimaSphere/OpenStickies/releases/latest">
-  <img src="https://img.shields.io/badge/Download_Latest_Release-v2.5.0-brightgreen?style=for-the-badge&logo=github" alt="Download">
+  <img src="https://img.shields.io/badge/Download_Latest_Release-v2.7.0-brightgreen?style=for-the-badge&logo=github" alt="Download">
 </a>
 
 <br>
