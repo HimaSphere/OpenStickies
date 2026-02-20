@@ -1,18 +1,19 @@
+<div align="center">
+
 # OpenStickies
 
-A sticky notes app for Windows and Linux. Drop files, paste screenshots, set reminders, keep stuff visible on your desktop.
+**Sticky notes for your desktop. Simple, fast, private.**
 
-![Windows](https://img.shields.io/badge/Windows-10+-blue) ![Linux](https://img.shields.io/badge/Linux-AppImage-orange) ![macOS](https://img.shields.io/badge/macOS-soon-lightgrey)
+Drop files, paste screenshots, set reminders — keep things visible where you work.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/himasphere)
-
-<p align="center">
-  <img src="images/quick-capture.webp" alt="OpenStickies sticky notes app" width="700">
-</p>
-
-## Download
-
-**[Get the latest release](https://github.com/HimaSphere/OpenStickies/releases/latest)**
+![Windows](https://img.shields.io/badge/Windows-10+-blue) ![Linux](https://img.shields.io/badge/Linux-AppImage-orange) ![macOS](https://img.shields.io/badge/macOS-soon-lightgrey) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/himasphere)
+<br><br>
+<img src="images/quick-capture.webp" alt="OpenStickies sticky notes app" width="700">
+<br><br>
+<a href="https://github.com/HimaSphere/OpenStickies/releases/latest">
+  <img src="https://img.shields.io/badge/Download_Latest_Release-v2.8.0-brightgreen?style=for-the-badge&logo=github" alt="Download">
+</a>
+<br>
 
 | Platform | File | Notes |
 |----------|------|-------|
@@ -20,61 +21,104 @@ A sticky notes app for Windows and Linux. Drop files, paste screenshots, set rem
 | Linux | `.AppImage` | Works on most distros |
 | macOS | — | Coming soon |
 
-Download, run, done. No installer needed for AppImage (just make it executable).
+</div>
 
-## Free vs Premium
-
-The free version does everything, just with limits:
-
-| | Free | Premium |
-|-|------|---------|
-| Notes | 5 | Unlimited |
-| Reminders | 1 | Unlimited |
-| GIF backgrounds | 1 | Unlimited |
-
-Premium is a one-time purchase at [openstickies.com/pricing](https://openstickies.com/pricing).
+---
 
 ## Features
 
-**Paste anything** — Files, folders, screenshots. Drag stuff in, it becomes a clickable shortcut. 70+ file types supported.
+### Paste anything
+
+Files, folders, screenshots — drag it in, it becomes a clickable shortcut. 70+ file types supported.
 
 <p align="center">
   <img src="images/paste-anything.webp" alt="File shortcuts in OpenStickies" width="600">
 </p>
 
-**Reminders** — Set them right in the note. Color changes based on urgency (green → orange → red).
+### Reminders
+
+Set them right in the note. Color changes based on urgency — green, orange, red.
 
 <p align="center">
   <img src="images/reminders.webp" alt="Reminders" width="600">
 </p>
 
-**Checkboxes** — Click to check, text gets strikethrough.
+### Custom backgrounds
+
+Images, GIFs, solid colors. Make each note yours.
 
 <p align="center">
-  <img src="images/simple-tasks.webp" alt="Tasks" width="600">
+  <img src="images/custom-backgrounds.webp" alt="Custom note backgrounds" width="600">
 </p>
 
-**Formatting** — Bold, italic, headings, links, custom backgrounds (images and GIFs).
+### Rich text formatting
+
+Bold, italic, headings, links, checkboxes with strikethrough.
 
 <p align="center">
   <img src="images/rich-text-formatting.webp" alt="Text formatting" width="600">
 </p>
 
-**Grid snap + pinning** — Align notes to a grid. Pin to lock position and prevent edits.
+### Grid snap + pinning
+
+Align notes to a grid. Pin to lock position and prevent edits.
 
 <p align="center">
   <img src="images/snap-to-grid.webp" alt="Grid snapping" width="500">
 </p>
 
-**Also:** always-on-top, auto-save, multi-monitor, 11 languages (including RTL Arabic).
+### Hover preview
 
-## Why Sticky Notes?
+Peek at note contents without opening them.
 
-> Sticky notes have been helping people think, plan, and get things done for decades — no manual needed. Research shows spatial organization and visual cues naturally boost memory and focus. OpenStickies is built to keep that simplicity while adding the benefits of digital: searchable, customizable, always on your screen. No accounts, no cloud, no tracking. Your notes stay on your device — always.
+<p align="center">
+  <img src="images/hover-preview.webp" alt="Hover preview" width="500">
+</p>
 
-**Simple tools, done right.**
+### And more
 
-## Troubleshooting
+- **Always-on-top** — keep notes above other windows
+- **Auto-save** — never lose a note
+- **Multi-monitor** — place notes across screens
+- **11 languages** — including RTL Arabic
+- **Fully offline** — no accounts, no cloud, no tracking
+
+---
+
+## Free vs Premium
+
+|  | Free | Premium |
+|--|------|---------|
+| Notes | 5 | Unlimited |
+| Reminders | 1 | Unlimited |
+| GIF backgrounds | 1 | Unlimited |
+
+Premium is a one-time purchase — **pay once, use forever**.
+
+<div align="center">
+
+<a href="https://openstickies.com/pricing"><strong>See pricing &rarr;</strong></a>
+
+</div>
+
+---
+
+## Community
+
+<div align="center">
+
+[Discord](https://discord.gg/8gGZSUJjZd) · [r/OpenStickies](https://www.reddit.com/r/OpenStickies/) · [Report a bug](https://github.com/HimaSphere/OpenStickies/issues) · support@openstickies.com
+
+If OpenStickies is useful to you, consider giving it a star — it helps others find it.
+
+</div>
+
+---
+
+<details>
+<summary><strong>Troubleshooting</strong></summary>
+
+<br>
 
 **Linux: AppImage won't run**
 ```bash
@@ -88,24 +132,23 @@ QT_QPA_PLATFORM=xcb ./OpenStickies*.AppImage
 ```
 
 **Windows: SmartScreen warning**
+
 Click "More info" → "Run anyway". The app isn't signed yet.
 
 **Reset everything**
+
 Delete the config folder:
 - Linux: `~/.config/OpenStickies/`
 - Windows: `%APPDATA%\OpenStickies`
 
-## Get help
+</details>
 
-- [Discord](https://discord.gg/8gGZSUJjZd)
-- [r/OpenStickies](https://www.reddit.com/r/OpenStickies/)
-- [Report bugs](https://github.com/HimaSphere/OpenStickies/issues)
-- support@openstickies.com
+---
 
-## About
+<div align="center">
 
-**OpenStickies** — sticky notes app for Windows and Linux
+Built by [Hima](https://github.com/HimaSphere) · [openstickies.com](https://openstickies.com)
 
-Built by [Hima](https://github.com/HimaSphere). Website: [openstickies.com](https://openstickies.com)
+OpenStickies is proprietary software. This repo is for free version releases only — no source code.
 
-**Note:** OpenStickies is proprietary software. This repo is for free version releases only — no source code.
+</div>
