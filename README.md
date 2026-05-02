@@ -1,17 +1,17 @@
 <div align="center">
 
-# OpenStickies
+# BetterStickies
 
 **Sticky notes for your desktop. Simple, fast, private.**
 
 Drop files, paste screenshots, set reminders — keep things visible where you work.
 
-![Windows](https://img.shields.io/badge/Windows-10+-blue) ![Linux](https://img.shields.io/badge/Linux-AppImage-orange) ![macOS](https://img.shields.io/badge/macOS-soon-lightgrey) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/himasphere)
+![Windows](https://img.shields.io/badge/Windows-10+-blue) ![Linux](https://img.shields.io/badge/Linux-AppImage-orange) ![macOS](https://img.shields.io/badge/macOS-soon-lightgrey) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/betterstickies)
 <br><br>
-<img src="images/quick-capture.webp" alt="OpenStickies sticky notes app" width="700">
+<img src="images/quick-capture.webp" alt="BetterStickies sticky notes app" width="700">
 <br><br>
-<a href="https://github.com/HimaSphere/OpenStickies/releases/latest">
-  <img src="https://img.shields.io/badge/Download_Latest_Release-v2.8.0-brightgreen?style=for-the-badge&logo=github" alt="Download">
+<a href="https://github.com/himasphere/betterstickies/releases/latest">
+  <img src="https://img.shields.io/badge/Download_Latest_Release-v1.0.0-brightgreen?style=for-the-badge&logo=github" alt="Download">
 </a>
 <br>
 
@@ -32,7 +32,7 @@ Drop files, paste screenshots, set reminders — keep things visible where you w
 Files, folders, screenshots — drag it in, it becomes a clickable shortcut. 70+ file types supported.
 
 <p align="center">
-  <img src="images/paste-anything.webp" alt="File shortcuts in OpenStickies" width="600">
+  <img src="images/paste-anything.webp" alt="File shortcuts in BetterStickies" width="600">
 </p>
 
 ### Reminders
@@ -97,7 +97,7 @@ Premium is a one-time purchase — **pay once, use forever**.
 
 <div align="center">
 
-<a href="https://openstickies.com/pricing"><strong>See pricing &rarr;</strong></a>
+<a href="https://betterstickies.com/pricing"><strong>See pricing &rarr;</strong></a>
 
 </div>
 
@@ -107,9 +107,9 @@ Premium is a one-time purchase — **pay once, use forever**.
 
 <div align="center">
 
-[Discord](https://discord.gg/8gGZSUJjZd) · [r/OpenStickies](https://www.reddit.com/r/OpenStickies/) · [Report a bug](https://github.com/HimaSphere/OpenStickies/issues) · support@openstickies.com
+[Discord](https://discord.gg/8gGZSUJjZd) · [r/BetterStickies](https://www.reddit.com/r/BetterStickies/) · [Report a bug](https://github.com/himasphere/betterstickies/issues) · support@betterstickies.com
 
-If OpenStickies is useful to you, consider giving it a star — it helps others find it.
+If BetterStickies is useful to you, consider giving it a star — it helps others find it.
 
 </div>
 
@@ -122,13 +122,13 @@ If OpenStickies is useful to you, consider giving it a star — it helps others 
 
 **Linux: AppImage won't run**
 ```bash
-chmod +x OpenStickies*.AppImage
-./OpenStickies*.AppImage
+chmod +x BetterStickies*.AppImage
+./BetterStickies*.AppImage
 ```
 
 **Linux: Wayland issues**
 ```bash
-QT_QPA_PLATFORM=xcb ./OpenStickies*.AppImage
+QT_QPA_PLATFORM=xcb ./BetterStickies*.AppImage
 ```
 
 **Windows: SmartScreen warning**
@@ -138,8 +138,8 @@ Click "More info" → "Run anyway". The app isn't signed yet.
 **Reset everything**
 
 Delete the config folder:
-- Linux: `~/.config/OpenStickies/`
-- Windows: `%APPDATA%\OpenStickies`
+- Linux: `~/.config/BetterStickies/`
+- Windows: `%APPDATA%\BetterStickies`
 
 </details>
 
@@ -147,8 +147,8 @@ Delete the config folder:
 
 <div align="center">
 
-Built by [Hima](https://github.com/HimaSphere) · [openstickies.com](https://openstickies.com)
+Built by [Hima](https://github.com/himasphere) · [betterstickies.com](https://betterstickies.com)
 
-OpenStickies is proprietary software. This repo is for free version releases only — no source code.
+BetterStickies is proprietary software. This repo is for free version releases only — no source code.
 
 </div>
