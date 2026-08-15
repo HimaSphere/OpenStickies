@@ -2,9 +2,9 @@
 
 # Better Stickies
 
-**Sticky notes for your desktop. Simple, fast, private.**
+**Stick anything to your desktop.**
 
-Drop files, paste screenshots, set reminders. Keep things visible where you work.
+Drop in files, paste screenshots, write code blocks, set reminders, and split a note into tabs. Fully offline, right where you work.
 
 ![Windows](https://img.shields.io/badge/Windows-10+-blue) ![Linux](https://img.shields.io/badge/Linux-AppImage-orange) ![macOS](https://img.shields.io/badge/macOS-in%20development-lightgrey) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/betterstickies)
 <br><br>
