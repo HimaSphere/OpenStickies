@@ -31,7 +31,9 @@ Drop in files, paste screenshots, write code blocks, set reminders, and split a 
 
 A note is no longer a single sheet. Split it into up to 3 pages behind tabs, and search reads every page, even in hidden notes.
 
-<!-- screenshot: images/note-tabs.webp -->
+<p align="center">
+  <img src="images/note-tabs.webp" alt="Note tabs with multiple pages" width="600">
+</p>
 
 ### Paste anything
 
